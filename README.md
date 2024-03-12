@@ -4,6 +4,7 @@
 
 - <b>Stock Market Analysis and Visualization</b>
   - [Apple Inc. (AAPL) Stock Analysis 2020-2023](https://github.com/dclandis/AAPL_stock_analysis)
+  - [Multiple Stocks Analysis 2020-2023](https://github.com/dclandis/multiple_stock_analysis)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
