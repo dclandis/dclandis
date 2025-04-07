@@ -1,4 +1,4 @@
-<h1>Daniel Landis<br/><a href="https://github.com/joshmadakor1">Python Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Daniel Landis<br/><a href="https://github.com/joshmadakor1">Python Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
